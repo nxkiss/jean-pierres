@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.genussatelier-kaufbeuren.de/sitemap.xml
+Sitemap: https://genussatelier-kaufbeuren.de/sitemap.xml
