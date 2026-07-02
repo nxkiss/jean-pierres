@@ -984,8 +984,6 @@
         if (pages[k] && k !== current) setActive(k, true);
       });
 
-      // (Reservierungsformular entfernt - Reservierung nur telefonisch)
-
       // initial route
       var initial = (location.hash || "").replace("#", "");
       setActive(pages[initial] ? initial : "start", true, true);
